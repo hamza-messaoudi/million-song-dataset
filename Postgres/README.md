@@ -10,10 +10,12 @@
 
 ### How to run this pipeline
     
-    1. Unzip the data.zip file
+    1. Download or clone the repository to your workspace
     
-    2. run : python create_tables.py
+    2. Unzip the data.zip file
     
-    3. run : python etl.py 
+    3. run : python create_tables.py
     
-    4. open test.ipynb to see the results
+    4. run : python etl.py 
+    
+    5. open test.ipynb to see the results
